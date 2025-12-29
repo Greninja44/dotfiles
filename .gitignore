@@ -1,0 +1,6 @@
+.cache/
+.local/
+.config/BraveSoftware/
+.config/chromium/
+*.log
+.env
