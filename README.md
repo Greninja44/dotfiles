@@ -16,5 +16,7 @@ These configs power my daily-driver Wayland setup.
 - Minimal dark theme with smooth animations
 
 ---
+## Preview
 
+![preview](https://github.com/user-attachments/assets/209a7be7-90ca-4a52-bba8-c16bf2043632)
 
