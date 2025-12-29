@@ -12,9 +12,8 @@ These configs power my daily-driver Wayland setup.
 - Waybar (status bar)
 - Rofi (application launcher)
 - Kitty (terminal emulator)
-- Dunst (notifications)
 - Zsh configuration
-- ðMinimal dark theme with smooth animations
+- Minimal dark theme with smooth animations
 
 ---
 
