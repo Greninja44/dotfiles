@@ -15,3 +15,4 @@ Public/
 *.log
 *zsh_history*
 *bash_history*
+crontab
