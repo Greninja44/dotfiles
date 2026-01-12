@@ -94,3 +94,7 @@ eval "$(zoxide init zsh)"
 eval "$(tmuxifier init -)"
 export PATH=$PATH:/home/ahmad/.spicetify
 [[ "$TERM_PROGRAM" == "kiro" ]] && . "$(kiro --locate-shell-integration-path zsh)"
+# Run fastfetch on terminal start
+if [[ -t 1 ]]; then
+    fastfetch
+fi
